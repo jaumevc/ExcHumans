@@ -9,7 +9,7 @@
 */
 
 //ESTRUCTURA:
-//Humano(CLASS : atributos : genero M/F)
+//Humano(ABSTRACT CLASS : atributos : genero M/F + 1metodo vacio (obligatorio) + 1 con codigo)
 
 //Hombre(INTERFACE : ejercer() /descansar() )
 //HombreCiudadano (INTERFACE : pagarImpuestos() / votar())
